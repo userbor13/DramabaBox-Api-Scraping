@@ -5,9 +5,9 @@ const path = require('path');
 const app = express();
 const PORT = 3000;
 
-const BASE_URL = 'https://dramabox.web.id/index.php';
-const SEARCH_URL = 'https://dramabox.web.id/search.php';
-const DETAIL_URL = 'https://dramabox.web.id/watch.php';
+const BASE_URL   = 'https://regexd.com/base.php?type=home';
+const SEARCH_URL = 'https://regexd.com/base.php?type=search';
+const DETAIL_URL = 'https://regexd.com/base.php?type=detail';
 
 const getHeaders = () => ({
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
