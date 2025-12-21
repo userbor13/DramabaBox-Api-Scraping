@@ -38,5 +38,5 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda.
 
 ### 1. Clone Repositori
 ```bash
-git clone [https://github.com/username-anda/dramabox-api.git](https://github.com/username-anda/dramabox-api.git)
+git clone [https://github.com/dramabosid/DramabaBox-Api-Scraping.git](https://github.com/dramabosid/DramabaBox-Api-Scraping.git)
 cd dramabox-api
